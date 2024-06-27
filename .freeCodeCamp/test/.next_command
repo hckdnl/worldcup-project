@@ -110,3 +110,7 @@ git pull origin main --rebase
 git push -u origin main
 git status
 git add .
+git stash pop
+git add .
+./insert_data.sh test
+./queries.sh test
