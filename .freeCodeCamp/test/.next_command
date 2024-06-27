@@ -114,3 +114,4 @@ git stash pop
 git add .
 ./insert_data.sh test
 ./queries.sh test
+git add .
